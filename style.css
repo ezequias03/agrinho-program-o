@@ -1,0 +1,35 @@
+h2{
+    color:rgb(255, 255, 255);
+}
+
+body{
+    background-color: rgb(58, 54, 54);
+    background-image: linear-gradient(to right);
+    font-family: Roboto;
+    text-align: center;
+}
+
+.titulo-texto{
+    text-align: orange;
+}
+
+.texto-conteudo{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 250px;
+    height: 400px;
+    background: rgb(255, 255, 255);
+    color: #ff4a4a;
+}
+
+footer{
+    border-top: 1px solid rgb(255, 27, 27);
+}
+
+#nome-usuário{
+    font-weight: bold;
+}
+
+.texto-inglês{
+    font-style: italic;
+}
